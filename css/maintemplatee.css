@@ -3,7 +3,7 @@ html, body  {
     padding: 0;
 }
 body {
-    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/87/27/ba/8727bac54400536c15e01810cb418785.png");
+    background-image: url("cssback.jpg");
     background-attachment: fixed; 
     background-position: center;  
     background-size: 100% 100%;
