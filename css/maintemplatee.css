@@ -10,7 +10,17 @@ body {
     background-opacity:0.1;
 }
 
-# Construction, Intro {
+# Construction {
+    width: 80%;
+    border-bottom: 10px solid black;
+    background-color: white;
+    margin: auto;
+    display: block;
+    opacity: 0.5;
+    margin-bottom: 50px;
+}
+
+# Intro {
     width: 80%;
     border-bottom: 10px solid black;
     background-color: white;
