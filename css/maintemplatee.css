@@ -19,11 +19,22 @@ body {
     margin-bottom: 50px;
 }
 
-.Links {
-    display: inline;
-
+#Links {
+    width: 80%;
+    border-bottom: 10px solid black;
+    background-color: white;
+    margin: auto;
+    display: block;
+    opacity: 0.5;
+    margin-bottom: 50px;
 }
 
-.social {
-	margin-top: 70px;
+#Social {
+    width: 80%;
+    border-bottom: 10px solid black;
+    background-color: white;
+    margin: auto;
+    display: block;
+    opacity: 0.5;
+    margin-bottom: 50px;
 }
